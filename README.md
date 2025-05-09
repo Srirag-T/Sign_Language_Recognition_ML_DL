@@ -1,4 +1,4 @@
-# Sign-Language-Recognition---Machine-Learning-Deep-Learning
+# Sign-Language-Recognition- Machine-Learning & Deep-Learning
 
 Sign language recognition plays a crucial role in enhancing communication accessibility for the hearing-impaired community. In this research, we utilize the MNIST for Sign Language dataset, presented in CSV format, to develop a machine learning model capable of recognizing alphabetic letters A to Y, excluding J and Z, represented by hand gestures. The dataset contains 27,455 training cases and 7,172 test cases, each comprising a 28x28 pixel image with grayscale values ranging from 0 to 255. We explore various machine learning algorithms to achieve accurate and efficient sign language recognition.
 
